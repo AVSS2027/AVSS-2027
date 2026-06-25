@@ -1,7 +1,7 @@
 title: AVSS 2027
 description: IEEE International Conference on Advanced Visual and Signal-Based Systems
-url: ""
-baseurl: ""
+url: "https://avss2027.github.io"
+baseurl: "/AVSS-2027"
 markdown: kramdown
 plugins: []
 
