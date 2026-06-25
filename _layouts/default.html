@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:title" content="{{ page.title | default: site.title }}">
+    <meta property="og:description" content="{{ page.description | default: site.description }}">
+    <meta property="og:image" content="{{ '/assets/images/hero-avss-2027.png' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav-shell" aria-label="Primary navigation">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} home">
+          <span class="brand-mark">AVSS</span>
+          <span class="brand-text">2027</span>
+        </a>
+        <div class="nav-links">
+          <a href="{{ '/' | relative_url }}">IEEE AVSS</a>
+          <a href="#" aria-disabled="true">Important Dates</a>
+          <a href="{{ '/organisation/' | relative_url }}">Committee</a>
+          <div class="nav-group">
+            <a href="#" aria-disabled="true">Calls</a>
+            <div class="nav-menu">
+              <a href="#" aria-disabled="true">Call for Papers</a>
+              <a href="#" aria-disabled="true">Call for Challenge</a>
+              <a href="#" aria-disabled="true">Call for Workshop</a>
+              <a href="#" aria-disabled="true">Call for Tutorial</a>
+              <a href="#" aria-disabled="true">Submission Instructions</a>
+            </div>
+          </div>
+          <div class="nav-group">
+            <a href="#" aria-disabled="true">Program</a>
+            <div class="nav-menu">
+              <a href="#" aria-disabled="true">Keynote Speakers</a>
+              <a href="#" aria-disabled="true">Technical Program</a>
+              <a href="#" aria-disabled="true">Tutorials</a>
+              <a href="#" aria-disabled="true">Camera Ready Instruction</a>
+            </div>
+          </div>
+          <div class="nav-group">
+            <a href="#" aria-disabled="true">Award</a>
+            <div class="nav-menu">
+              <a href="#" aria-disabled="true">Best Paper</a>
+              <a href="#" aria-disabled="true">Thesis Paper Awards</a>
+            </div>
+          </div>
+          <a href="#" aria-disabled="true">Challenge</a>
+          <a href="#" aria-disabled="true">Workshop</a>
+          <a href="#" aria-disabled="true">Sponsorships</a>
+          <div class="nav-group">
+            <a href="#" aria-disabled="true">Services</a>
+            <div class="nav-menu">
+              <a href="#" aria-disabled="true">Presentation Instructions</a>
+              <a href="#" aria-disabled="true">Registration</a>
+              <a href="#" aria-disabled="true">Visa Request</a>
+              <a href="#" aria-disabled="true">Venue and Travel</a>
+              <a href="#" aria-disabled="true">History of AVSS</a>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div>
+          <strong>AVSS 2027</strong>
+          <span>IEEE International Conference on Advanced Visual and Signal-Based Systems</span>
+        </div>
+        <a href="https://www.ieee.org/about/corporate/governance/p9-26.html" target="_blank" rel="noopener">Code of Conduct</a>
+      </div>
+      <img class="footer-logo" src="{{ '/logo.png' | relative_url }}" alt="IEEE Signal Processing Society">
+    </footer>
+  </body>
+</html>

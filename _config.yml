@@ -1,0 +1,12 @@
+title: AVSS 2027
+description: IEEE International Conference on Advanced Visual and Signal-Based Systems
+url: ""
+baseurl: ""
+markdown: kramdown
+plugins: []
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
