@@ -4,22 +4,22 @@ title: Home
 description: AVSS 2027 conference website
 ---
 
-<section class="hero" style="--hero-image: url('{{ '/assets/images/hero-avss-2027.png' | relative_url }}');">
+<section class="hero" style="--hero-image: url('https://upload.wikimedia.org/wikipedia/commons/5/5e/Macau_-_Skyline.jpg');">
   <div class="hero-inner">
     <p class="eyebrow">IEEE International Conference on</p>
     <h1>Advanced Visual and Signal-Based Systems</h1>
     <p class="subtitle">(AVSS 2027)</p>
     <div class="meta" aria-label="Conference information">
       <span>July 15-17, 2027</span>
-      <span>University of Macau</span>
-      <span>Macau</span>
+      <span>Venue: University of Macau</span>
+      <span>Location: Macau SAR</span>
     </div>
   </div>
 </section>
 
 <section class="section news-section">
   <h2>News</h2>
-  <div class="notice">AVSS 2027 is planned for July 15-17, 2027 at the University of Macau, Macau.</div>
+  <div class="notice">AVSS 2027 is planned for July 15-17, 2027 at the University of Macau, Macau SAR.</div>
   <div class="notice">The AVSS 2027 website is online. Calls, submission instructions, registration, venue, and travel information will be updated as they are confirmed.</div>
   <p>
     Please check back for updates on the technical program, keynote speakers,
@@ -75,8 +75,7 @@ description: AVSS 2027 conference website
   <div class="grid">
     <div class="tile">
       <strong>Host City</strong>
-      Macau is a Special Administrative Region of China and a major cultural,
-      tourism, and international exchange hub.
+      Macau SAR is a major cultural, tourism, and international exchange hub.
     </div>
     <div class="tile">
       <strong>Host Venue</strong>

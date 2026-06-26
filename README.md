@@ -11,17 +11,23 @@ The homepage content is written in Markdown and rendered by GitHub Pages/Jekyll.
 - `index.md` is the homepage content.
 - `_layouts/default.html` is the Jekyll page shell.
 - `assets/css/site.css` controls the visual style.
-- `assets/images/hero-avss-2027.png` is the hero background image.
+- The hero background uses a Wikimedia Commons Macau skyline photo. Attribution is shown in the site footer.
 
 GitHub Pages can render this directly with Jekyll.
 
 ## Publish On GitHub Pages
+
+To publish at `https://avss2027.github.io/`, the repository should be named
+`AVSS2027.github.io` and `_config.yml` should keep `baseurl: ""`.
 
 1. Open the repository on GitHub.
 2. Go to **Settings** -> **Pages**.
 3. Set **Source** to **Deploy from a branch**.
 4. Select the `main` branch and the repository root folder `/`.
 5. Save. GitHub will build `index.md` into the website homepage.
+
+If the repository remains named `AVSS-2027`, GitHub Pages will publish it as a
+project site at `https://avss2027.github.io/AVSS-2027/` instead.
 
 ## Edit Content
 

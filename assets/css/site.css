@@ -520,6 +520,19 @@ a {
   color: #5b1f1f;
 }
 
+.photo-credit {
+  width: min(1180px, calc(100% - 48px));
+  margin: 0 auto;
+  padding: 0 0 18px;
+  color: #6b3a3a;
+  font-size: 0.78rem;
+  text-align: center;
+}
+
+.photo-credit a {
+  color: inherit;
+}
+
 @media (max-width: 820px) {
   .site-header {
     position: static;
