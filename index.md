@@ -5,15 +5,10 @@ description: AVSS 2027 conference website
 ---
 
 <section class="home-hero" style="--hero-image: url('https://upload.wikimedia.org/wikipedia/commons/5/5e/Macau_-_Skyline.jpg');">
-  <button class="hero-arrow hero-arrow-left" type="button" aria-label="Previous slide">‹</button>
   <div class="hero-caption">
     <h1>Venue: University of Macau, Macau SAR</h1>
     <p>July 15-17, 2027</p>
-    <div class="hero-dots" aria-hidden="true">
-      <span></span><span></span><span></span><span></span>
-    </div>
   </div>
-  <button class="hero-arrow hero-arrow-right" type="button" aria-label="Next slide">›</button>
 </section>
 
 <section class="home-grid">
