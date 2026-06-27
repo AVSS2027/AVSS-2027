@@ -328,6 +328,16 @@ a {
   line-height: 1.48;
 }
 
+.track-list {
+  display: grid;
+  gap: 5px;
+  margin: 0;
+  padding: 13px 14px 16px 30px;
+  color: #5d6670;
+  font-size: 0.94rem;
+  line-height: 1.35;
+}
+
 .side-card-blue {
   border-color: #2e83c2;
 }

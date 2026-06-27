@@ -114,10 +114,17 @@ description: AVSS 2027 conference website
   <aside class="home-sidebar" aria-label="Conference quick links">
     <section id="tracks" class="side-card side-card-blue">
       <h2>AVSS 2027 Tracks</h2>
-      <p>
-        Keynotes | Technical Track | Short Papers | Demo Papers | Abstract
-        Session | Tutorials | Challenges | Workshops | Panels
-      </p>
+      <ul class="track-list">
+        <li>Keynotes</li>
+        <li>Technical Track</li>
+        <li>Short Papers</li>
+        <li>Demo Papers</li>
+        <li>Abstract Session</li>
+        <li>Tutorials</li>
+        <li>Challenges</li>
+        <li>Workshops</li>
+        <li>Panels</li>
+      </ul>
     </section>
 
     <section id="program" class="side-card">
