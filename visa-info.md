@@ -5,7 +5,7 @@ description: Visa and entry information for AVSS 2027 participants
 permalink: /visa-info/
 ---
 
-<section class="page-hero compact-hero" style="--hero-image: url('{{ '/assets/images/macau-skyline.jpg' | relative_url }}');">
+<section class="page-hero compact-hero" style="--hero-image: url('{{ '/assets/images/macau-skyline.webp' | relative_url }}');">
   <div class="hero-inner">
     <p class="eyebrow">AVSS 2027</p>
     <h1>Visa Info</h1>
@@ -108,11 +108,17 @@ permalink: /visa-info/
   <div class="visa-source">
     <h3>Official Source</h3>
     <p>
-      The authoritative source is the Macao SAR Government / Public Security
-      Police Force page on immigration clearance of non-residents of Macao.
+      The authoritative sources are the Public Security Police Force of Macao
+      SAR immigration services page and the Macao SAR Government entry permit
+      and visa requirements page.
     </p>
-    <a class="button" href="https://www.gov.mo/en/services/ps-1474/ps-1474b/" target="_blank" rel="noopener">
-      View Official Entry Requirements
-    </a>
+    <div class="button-row">
+      <a class="button" href="https://www.fsm.gov.mo/psp/eng/psp_top5_3m.html" target="_blank" rel="noopener">
+        Public Security Police Force
+      </a>
+      <a class="button secondary" href="https://www.gov.mo/en/services/ps-1474/ps-1474b/" target="_blank" rel="noopener">
+        Entry Permit and Visa Requirements
+      </a>
+    </div>
   </div>
 </section>
