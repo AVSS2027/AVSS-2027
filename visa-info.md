@@ -89,6 +89,55 @@ permalink: /visa-info/
     </article>
   </div>
 
+  <div class="visa-table-block">
+    <h3>Visa and Entry Permit Exemption List</h3>
+    <p>
+      The table below reproduces the official Macao SAR Government list of
+      countries whose nationals are exempted from a visa or entry permit for
+      entering Macau SAR. The exemption period may differ by passport or travel
+      document, so participants should confirm the latest official rule before
+      travelling.
+    </p>
+    <div class="visa-table-wrap">
+      <table class="visa-exemption-table">
+        <tbody>
+          <tr><td>Albania</td><td>Indonesia</td><td>Philippines</td></tr>
+          <tr><td>Andorra</td><td>Ireland</td><td>Poland</td></tr>
+          <tr><td>Australia</td><td>Israel</td><td>Portugal</td></tr>
+          <tr><td>Austria</td><td>Italy</td><td>Republic of Argentina</td></tr>
+          <tr><td>Belgium</td><td>Japan</td><td>Republic of Armenia</td></tr>
+          <tr><td>Bosnia and Herzegovina</td><td>Kingdom of Morocco</td><td>Republic of Belarus</td></tr>
+          <tr><td>Brazil</td><td>Kiribati</td><td>Republic of Ecuador</td></tr>
+          <tr><td>Brunei</td><td>Korea (Republic of)</td><td>Romania</td></tr>
+          <tr><td>Bulgaria</td><td>Latvia</td><td>Russia</td></tr>
+          <tr><td>Canada</td><td>Lebanon</td><td>Samoa</td></tr>
+          <tr><td>Cape Verde</td><td>Liechtenstein</td><td>San Marino</td></tr>
+          <tr><td>Chile</td><td>Lithuania</td><td>Serbia</td></tr>
+          <tr><td>Croatia</td><td>Luxembourg</td><td>Seychelles</td></tr>
+          <tr><td>Cyprus</td><td>Republic of North Macedonia</td><td>Singapore</td></tr>
+          <tr><td>Czech</td><td>Malaysia</td><td>Slovakia</td></tr>
+          <tr><td>Denmark</td><td>Mali</td><td>Slovenia</td></tr>
+          <tr><td>Dominica</td><td>Malta</td><td>South Africa</td></tr>
+          <tr><td>Egypt</td><td>Mauritius</td><td>Spain</td></tr>
+          <tr><td>Estonia</td><td>Mexico</td><td>Sweden</td></tr>
+          <tr><td>Finland</td><td>Moldova</td><td>Switzerland</td></tr>
+          <tr><td>France</td><td>Monaco</td><td>Tanzania</td></tr>
+          <tr><td>Germany</td><td>Mongolia</td><td>Thailand</td></tr>
+          <tr><td>Greece</td><td>Montenegro</td><td>Turkey</td></tr>
+          <tr><td>Grenada</td><td>Namibia</td><td>United Arab Emirates</td></tr>
+          <tr><td>Hungary</td><td>Netherlands</td><td>United States of America (except for holders of a US diplomatic passport)</td></tr>
+          <tr><td>Iceland</td><td>New Zealand</td><td>United Kingdom</td></tr>
+          <tr><td>India</td><td>Norway</td><td>Uruguay</td></tr>
+          <tr><td>Republic of Kazakhstan</td><td>Kingdom of Saudi Arabia</td><td>The State of Qatar</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="section-note">
+      Source: Macao SAR Government, Entry Permit and Visa Requirements,
+      Section 6 “Visa and Entry Permit Exemption”.
+    </p>
+  </div>
+
   <h3>Notes for Mainland China Residents</h3>
   <p>
     Travel from Mainland China to Macau SAR is normally not handled as a
